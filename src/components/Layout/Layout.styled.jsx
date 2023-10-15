@@ -23,6 +23,7 @@ export const NavList = styled.ul`
   bac
 `;
 export const Header = styled.header`
-  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
-    0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  //   background-color: rgb(206, 187, 218);
+  box-shadow: 0px 5px 1px -2px rgb(206, 187, 218),
+    0px 5px 2px 0px rgb(206, 187, 218), 0px 5px 5px 3px rgb(206, 187, 218);
 `;
